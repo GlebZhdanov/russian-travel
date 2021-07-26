@@ -1,0 +1,6 @@
+.website {
+  margin:0 0 48px 40px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}

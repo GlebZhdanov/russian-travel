@@ -1,0 +1,12 @@
+.place {
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: auto 1fr;
+  width: 984px;
+  min-height: auto;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+.place:last-child {
+  margin-bottom: 0;
+}

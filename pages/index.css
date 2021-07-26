@@ -1,0 +1,62 @@
+@import url('../vendor/fonts.css');
+@import url('../vendor/normalize.css');
+@import url('../blocks/page/page.css');
+/*Блок Header*/
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__lang-link/header__lang-link.css');
+@import url('../blocks/header/__language-list/header__language-list.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/_underline/header__lang-link_underline.css');
+
+/*Блок Lead*/
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/lead/__caption/lead__caption.css');
+@import url('../blocks/lead/__image/lead__image.css');
+@import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__title/lead__title.css');
+
+/*Блок intro*/
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/intro/__list.css/intro__list.css');
+@import url('../blocks/intro/__text.css/intro__text.css');
+@import url('../blocks/intro/__title/intro__title.css');
+/*Блок photo-grid*/
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/photo-grid/__item/photo-grid__item.css');
+
+/*Блок places и place*/
+@import url('../blocks/places/places.css');
+@import url('../blocks/place/place.css');
+@import url('../blocks/place/__image/place__image.css');
+@import url('../blocks/paragrah/__place/paragraph__place.css');
+@import url('../blocks/place/__title/place__title.css');
+@import url('../blocks/website/website.css');
+@import url('../blocks/website/__link/website__link.css');
+@import url('../blocks/website/__url-heading/website__url-heading.css');
+
+/*Блок cover*/
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/cover/__overlay/cover__overlay.css');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');
+@import url('../blocks/cover/__title/cover__title.css');
+@import url('../blocks/cover/__background/cover__background.css');
+
+/*Блок footer*/
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/footer/__link/footer__link.css');
+
+
+
+/*.body {
+  background-color: #2A2C2F;
+  border: 110 px solid red;
+}
+.header__lang-link {
+  text-decoration: none;
+  font-size: 110px;
+}
+.header {
+  background-color: #2A2C2F;
+}
+@import url('');
