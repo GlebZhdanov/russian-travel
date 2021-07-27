@@ -1,6 +1,4 @@
 .lead__image {
-  width: 984px;
-  height: 615px;
-  display: block;
-  margin: 0 auto 8px;
+  width: 100%;
+  height: 100%;
 }

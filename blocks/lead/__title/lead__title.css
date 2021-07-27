@@ -6,7 +6,27 @@
   line-height: 100px;
   letter-spacing: 0em;
   text-align: center;
-  width: 720px;
-  height: 200px;
+  width: 74%;
+  min-height: 200px;
   margin:0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__title {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
 }

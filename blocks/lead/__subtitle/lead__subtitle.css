@@ -7,6 +7,28 @@
   letter-spacing: 0em;
   text-align: center;
   margin: 32px auto 64px;
-  width: 640px;
-  height: 72px;
+  max-width: 640px;
+  min-height: 72px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+    margin-bottom: 56px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    margin-bottom: 56px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    max-width: 288px;
+    min-height: 40px;
+    margin: 16px auto 40px;
+  }
 }
