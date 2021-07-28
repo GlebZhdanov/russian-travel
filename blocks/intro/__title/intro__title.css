@@ -1,5 +1,4 @@
 .intro__title {
-  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   font-size: 54px;
   font-style: normal;
   font-weight: 900;
@@ -10,23 +9,11 @@
   margin-bottom: 40px;
 
 }
-/*
-@media screen and (max-width: 1024px) {
-  .intro__title {
-    margin-left: 48px;
-
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .intro__title {
-    margin-left: 24px;
-  }
-}
 
 @media screen and (max-width: 320px) {
   .intro__title {
-    margin-left: 16px;
+    font-size: 32px;
+    line-height: 35px;
   }
 }
 

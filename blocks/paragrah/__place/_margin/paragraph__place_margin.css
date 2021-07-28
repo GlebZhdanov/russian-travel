@@ -16,6 +16,7 @@
 
 @media screen and (max-width: 320px) {
   .paragraph__place_margin  {
+    margin-top: 32px;
     margin-bottom: 25px;
     }
   }

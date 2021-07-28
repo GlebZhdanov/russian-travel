@@ -1,5 +1,4 @@
 .header__lang-link {
-  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   text-decoration: none;
   color: #FFFFFF;
   font-style: normal;
@@ -9,11 +8,21 @@
   width: 30px;
   height: 28px;
   margin-right: 18px;
-  margin-bottom: 6px;
 
 }
 
 .header__lang-link:last-of-type {
   margin-right: 0;
 }
+@media screen and (max-width: 320px) {
+  .header__lang-link  {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 20px;
+    width: 22px;
+    height: 20px;
+    margin-top: 14px;
+  }
+}
+
 
