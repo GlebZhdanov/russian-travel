@@ -6,26 +6,25 @@
   line-height: 100px;
   letter-spacing: 0em;
   text-align: center;
-  width: 74%;
-  min-height: 200px;
+  width: calc(100% - 280px*2);
   margin:0 auto;
 }
 
 @media screen and (max-width: 1024px) {
   .lead__title {
-    width: 100%;
+    width: calc(100% - 152px*2);
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead__title {
-    width: 100%;
+    width: calc(100% - 24px*2);
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__title {
-    max-width: 288px;
+    max-width: calc(100% - 16px*2);
     font-size: 40px;
     line-height: 44px;
   }

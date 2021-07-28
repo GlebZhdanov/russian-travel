@@ -5,7 +5,28 @@
   font-weight: 900;
   line-height: 58px;
   letter-spacing: 0em;
-  text-align: left;
   margin: 0;
+  padding: 0;
   margin-bottom: 40px;
+
 }
+/*
+@media screen and (max-width: 1024px) {
+  .intro__title {
+    margin-left: 48px;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__title {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__title {
+    margin-left: 16px;
+  }
+}
+

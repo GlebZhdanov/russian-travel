@@ -1,6 +1,29 @@
 .intro {
   padding-top: 92px;
-  height: 429px;
-  width: 690px;
-  margin: 0 auto 0 148px;
+  max-width: 690px;
+  margin-left: 148px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    margin-left: 48px;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    width: calc(100% - 24px*2);
+    margin: 0 auto;
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro {
+    width: calc(100% - 16px*2);
+    margin: 0 auto;
+    padding-top: 64px;
+
+  }
 }

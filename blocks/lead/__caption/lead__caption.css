@@ -5,13 +5,16 @@
   font-weight: 400;
   line-height: 14px;
   letter-spacing: 1.5px;
+  width: 158px;
   text-align: left;
+  margin: 8px 0 0 148px;
   margin-top: 8px;
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 1024px) {
   .lead__caption {
+    margin-left: 48px;
 
   }
 }
@@ -23,7 +26,8 @@
 }
 
 @media screen and (max-width: 320px) {
-  .lead__captione {
+  .lead__caption {
     margin-left: 16px;
   }
 }
+

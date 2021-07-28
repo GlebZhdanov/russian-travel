@@ -5,10 +5,24 @@
   font-size: 18px;
   line-height: 163%;
   margin: 0;
-  margin-left: 40px;
+  margin-left: 8px;
   }
 
-.place__paragraph:first-of-type {
-  margin-bottom: 26px;
+@media screen and (max-width: 768px) {
+  .paragraph__place  {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .paragraph__place  {
+  font-size: 16px;
+    }
   }
 
+@media screen and (max-width: 320px) {
+  .paragraph__place   {
+    margin: 32px 16px 0 16px;
+    font-size: 16px;
+    }
+  }

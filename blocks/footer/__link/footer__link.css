@@ -6,8 +6,21 @@
   line-height: 18px;
   color: #FFFFFF;
   text-decoration: none;
-  margin-right: 18px;
 }
 .footer__link:last-child{
   margin-right: 0;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+    display: block;
+    margin-top: 32px;
+  }
+  .footer__link:first-child{
+    margin-top: 0;
+  }
+}
+
+

@@ -1,12 +1,31 @@
 .place {
   display: grid;
-  grid-template-columns: 460px 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: auto 1fr;
-  width: 984px;
+  width: calc(100% - 148px*2);
   min-height: auto;
   margin: 0 auto;
   margin-bottom: 80px;
 }
 .place:last-child {
   margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place  {
+    width: calc(100% - 48px*2);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place  {
+    width: calc(100% - 24px*2);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place  {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
 }
