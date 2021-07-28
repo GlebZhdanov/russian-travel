@@ -46,18 +46,3 @@
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
 @import url('../blocks/footer/__link/footer__link.css');
-
-
-
-/*.body {
-  background-color: #2A2C2F;
-  border: 110 px solid red;
-}
-.header__lang-link {
-  text-decoration: none;
-  font-size: 110px;
-}
-.header {
-  background-color: #2A2C2F;
-}
-@import url('');
