@@ -1,21 +1,21 @@
-.paragraph__place_margin {
+.place__paragrah_margin {
   margin-bottom: 26px;
 }
 
 @media screen and (max-width: 1024px) {
-  .paragraph__place_margin  {
+  .place__paragrah_margin   {
     margin-bottom: 27px;
     }
   }
 
 @media screen and (max-width: 768px) {
-  .paragraph__place_margin {
+  .place__paragrah_margin  {
     margin-bottom: 25px;
     }
   }
 
 @media screen and (max-width: 320px) {
-  .paragraph__place_margin  {
+  .place__paragrah_margin   {
     margin-top: 32px;
     margin-bottom: 25px;
     }

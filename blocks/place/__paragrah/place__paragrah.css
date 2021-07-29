@@ -1,4 +1,4 @@
-.paragraph__place {
+.place__paragrah {
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -7,24 +7,24 @@
   margin-left: 8px;
   text-align: left;
   }
-  .paragraph__place:last-child {
+  .place__paragrah:last-child {
     margin-bottom: 0;
   }
 
 @media screen and (max-width: 768px) {
-  .paragraph__place  {
+  .place__paragrah  {
     font-size: 16px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .paragraph__place  {
+  .place__paragrah  {
   font-size: 16px;
     }
   }
 
 @media screen and (max-width: 320px) {
-  .paragraph__place   {
+  .place__paragrah  {
     margin: 0px 16px 0 16px;
     font-size: 16px;
     }
