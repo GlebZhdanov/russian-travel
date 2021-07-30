@@ -7,6 +7,14 @@
   text-align: center;
   width: calc(100% - 280px*2);
   margin:0 auto;
+  overflow-wrap: normal;
+
+}
+
+@media screen and (max-width: 1200px) {
+  .lead__title {
+    width: calc(100% - 152px*2);
+  }
 }
 
 @media screen and (max-width: 1024px) {
@@ -15,9 +23,22 @@
   }
 }
 
+@media screen and (max-width: 826px) {
+  .lead__title {
+    width: calc(100% - 24px*2);
+  }
+}
+
 @media screen and (max-width: 768px) {
   .lead__title {
     width: calc(100% - 24px*2);
+  }
+}
+
+@media screen and (max-width: 698px) {
+  .lead__title {
+    width: calc(100% - 24px*2);
+    overflow-wrap: break-word;
   }
 }
 

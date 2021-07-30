@@ -12,6 +12,13 @@
   opacity: 0.3;
 }
 
+@media screen and (max-width: 1234px) {
+  .cover__background {
+    width: 100%;
+    height: 640px;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .cover__background {
     width: 100%;
@@ -20,6 +27,12 @@
 }
 
 @media screen and (max-width: 768px) {
+  .cover__background {
+    width: 100%;
+    height: 480px;
+  }
+}
+@media screen and (max-width: 590px) {
   .cover__background {
     width: 100%;
     height: 480px;

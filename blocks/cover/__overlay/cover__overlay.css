@@ -1,3 +1,11 @@
 .cover__overlay {
   margin: auto;
 }
+
+@media screen and (max-width: 358px) {
+  .cover__overlay  {
+    padding-top: 66px;
+    width: 100%;
+    overflow-wrap: break-word;
+  }
+}

@@ -7,7 +7,6 @@
   text-align: center;
   margin: 32px auto 64px;
   width: calc(100% - 320px*2);
-  min-height: 72px;
 }
 
 @media screen and (max-width: 1024px) {
