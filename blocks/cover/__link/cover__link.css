@@ -1,0 +1,19 @@
+.cover__link {
+  min-height: 740px;
+  display: block;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.cover__link:hover {
+  opacity: 0.3;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__link  {
+min-height: 200px;
+  }
+}

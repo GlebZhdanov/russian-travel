@@ -7,25 +7,32 @@
   margin-left: 8px;
   text-align: left;
   }
+
+  .place__paragrah:nth-of-type(2) {
+    margin-top: 26px;
+  }
+
   .place__paragrah:last-child {
     margin-bottom: 0;
   }
 
+  @media screen and (max-width: 1024px) {
+    .place__paragrah:nth-of-type(2) {
+      margin-top: 27px;
+    }
+  }
+
 @media screen and (max-width: 768px) {
   .place__paragrah  {
     font-size: 16px;
   }
-}
-
-@media screen and (max-width: 768px) {
-  .place__paragrah  {
-  font-size: 16px;
-    }
+  .place__paragrah:nth-of-type(2) {
+    margin-top: 25px;
   }
+}
 
 @media screen and (max-width: 320px) {
   .place__paragrah  {
     margin: 0px 16px 0 16px;
-    font-size: 16px;
-    }
   }
+}
