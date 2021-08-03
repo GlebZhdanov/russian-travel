@@ -51,7 +51,7 @@
   }
 }
 
-@media screen and (max-width: 365px) {
+@media screen and (max-width: 320px) {
   .place  {
     justify-items: start;
   }
