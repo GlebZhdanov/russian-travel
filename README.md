@@ -12,5 +12,3 @@ __Путешествие по Россим__
 И вот ссылка на работу!!
 https://glebzhdanov.github.io/russian-travel/
 
-
-на промежутке от 992 http://joxi.ru/KAxkpwbfv8z3n2 до 981 http://joxi.ru/zAN3MLau8ZpE8r, от 843 http://joxi.ru/MAj5dwbi1L6zE2 до 827 http://joxi.ru/EA4YdOXIvxJbYr, от 760 http://joxi.ru/gmvX1wbUdM65RA до 727 http://joxi.ru/823YW3zIa4NZNr , от 715 http://joxi.ru/8AnlawpcoRZbbm до 699 http://joxi.ru/GrqalwvTRYe1br от 600 http://joxi.ru/v29YR1XIRY0EW2 до 591 http://joxi.ru/gmvX1wbUdM6pRA и ниже 384 http://joxi.ru/DmBYgGzIgxVXDr горизонтальный скролл. Проверять на горизонтальный скролл необходимо с отключенным эмулятором устройств http://joxi.ru/bmoKRw0s7X8nKm

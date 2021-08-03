@@ -11,15 +11,6 @@
 @media screen and (max-width: 1235px) {
   .photo-grid  {
     width: calc(100% - 48px*2);
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 14px 14px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .photo-grid  {
-    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 14px 14px;
   }

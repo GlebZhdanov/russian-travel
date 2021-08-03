@@ -3,30 +3,24 @@
   height: 460px;
 }
 
-@media screen and (max-width: 1024px) {
-  .place__image  {
+@media screen and (max-width: 1224px) {
+  .place__image {
     max-width: 440px;
     height: 440px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 813px) {
   .place__image {
     max-width: 340px;
     height: 340px;
   }
 }
 
-@media screen and (max-width: 342px) {
+@media screen and (max-width: 600px) {
   .place__image {
     max-width: 320px;
     height: 320px;
   }
 }
 
-@media screen and (max-width: 320px) {
-  .place__image {
-    max-width: 320px;
-    height: 320px;
-  }
-}
