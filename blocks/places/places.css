@@ -1,15 +1,15 @@
 .places {
-  padding-top: 92px;
+  padding: 92px 0 92px 0;
 }
 
 @media screen and (max-width: 768px) {
   .places  {
-    padding-top: 88px;
+    padding: 88px 0 90px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places  {
-    padding-top: 66px;
+    padding: 66px 0 66px 0;
   }
 }

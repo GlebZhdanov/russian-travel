@@ -23,7 +23,13 @@
   }
 }
 
-@media screen and (max-width: 1066px) {
+@media screen and (max-width: 1024px) {
+  .place  {
+    width: calc(100% - 48px*2);
+  }
+}
+
+@media screen and (max-width: 996px) {
   .place  {
     width: 720px;
   }
@@ -36,7 +42,7 @@
   }
 }
 
-@media screen and (max-width: 761px) {
+@media screen and (max-width: 764px) {
   .place  {
     grid-template-columns: 1fr;
     width: 320px;

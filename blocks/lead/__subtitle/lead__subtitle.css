@@ -27,7 +27,6 @@
     font-size: 16px;
     line-height: 20px;
     width: calc(100% - 16px*2);
-    min-height: 40px;
     margin: 16px auto 40px;
   }
 }

@@ -4,12 +4,11 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
-  text-align: center;
-  color: #FFFFFF;
-  margin: 0;
-  padding: 0;
+  color: #FFF;
   max-width: 560px;
-  z-index: 1;
+  margin: auto auto 16px auto;
+  text-align: center;
+  z-index: 2;
 }
 
 @media screen and (max-width: 356px) {
