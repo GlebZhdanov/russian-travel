@@ -1,6 +1,6 @@
 .cover {
   position: relative;
-  background-image: url("../../../images/cover-trains.jpg");
+  background-image: url("../../images/cover-trains.jpg");
   width: calc(100% - 48px*2);
   margin: 0 auto;
   background-position: center center;
