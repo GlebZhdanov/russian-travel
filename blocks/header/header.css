@@ -2,7 +2,6 @@
   margin: 0 auto;
   padding-top: 28px;
   width: calc(100% - 48px*2);
-  min-height: 42px;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;

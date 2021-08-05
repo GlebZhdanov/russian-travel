@@ -6,7 +6,6 @@
   background-position: center center;
   background-size: cover;
   z-index: 0;
-  min-height: 740px;
 }
 
 .cover::before {
@@ -36,18 +35,6 @@
 @media screen and (max-width: 1024px) {
   .cover  {
     width: 100%;
-    min-height: 640px;
   }
 }
 
-@media screen and (max-width: 768px) {
-  .cover  {
-    min-height: 480px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover  {
-    min-height: 200px;
-  }
-}
