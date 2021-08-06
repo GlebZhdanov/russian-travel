@@ -51,7 +51,6 @@
 
 @media screen and (max-width: 365px) {
   .place  {
-    width: 100%;
     margin-bottom: 50px;
     justify-items: center;
   }
@@ -59,6 +58,7 @@
 
 @media screen and (max-width: 320px) {
   .place  {
+    width: 100%;
     justify-items: start;
   }
 }
