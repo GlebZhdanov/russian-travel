@@ -9,7 +9,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 386px) {
   .cover__subtitle  {
     width: calc(100% - 16px*2);
     font-size: 14px;

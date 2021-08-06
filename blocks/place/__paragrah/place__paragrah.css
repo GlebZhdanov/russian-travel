@@ -32,7 +32,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 330px) {
   .place__paragrah  {
     margin: 32px 16px 0 16px;
   }
