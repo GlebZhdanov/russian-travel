@@ -7,7 +7,6 @@
   line-height: 28px;
   width: 30px;
   opacity: 1;
-  margin-bottom: 6px;
 }
 
 .header__lang-link:hover {
@@ -24,7 +23,6 @@
     font-size: 18px;
     line-height: 20px;
     width: 22px;
-    margin-top: 14px;
   }
 }
 
