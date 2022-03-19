@@ -1,3 +1,4 @@
-.editorconfig
+src/.editorconfig
 .idea
 .DS_Store
+.dist
