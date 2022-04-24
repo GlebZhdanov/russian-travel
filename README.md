@@ -22,4 +22,4 @@ Cоздать типовой одностраничный сайт. Необхо
 
 - HTML, CSS
 
-**Ссылка на проект в gh-pages: [Научиться учиться](https://glebzhdanov.github.io/russian-travel/)**
+**Ссылка на проект в gh-pages: [Путешествие по России](https://glebzhdanov.github.io/russian-travel/)**
