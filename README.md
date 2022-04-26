@@ -17,3 +17,7 @@
 - HTML, CSS
 
 ### **Ссылка на проект в gh-pages: [Путешествие по России](https://glebzhdanov.github.io/russian-travel/)**
+
+### Статус проекта
+
+Проект завершён.
